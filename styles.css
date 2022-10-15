@@ -60,4 +60,10 @@ button
     color: aliceblue;
     height: 30px;
     width: 120px;
+    cursor: pointer;
+}
+button:hower
+{
+    background-color: rgb(30, 87, 208);
+    transition: 0.7s;
 }
