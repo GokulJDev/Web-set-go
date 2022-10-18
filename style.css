@@ -60,8 +60,9 @@
 }
 .nav-items:hover
 {
-    text-decoration:underline;
+    text-decoration: underline;
     color:red;
+    
 }
 .nav
 {
